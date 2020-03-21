@@ -18,5 +18,8 @@
   "homepage": "https://github.com/eliranRP/pm2-tutorial#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "pm2": "^4.2.3"
   }
 }
